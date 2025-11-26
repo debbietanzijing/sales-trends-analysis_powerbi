@@ -41,7 +41,7 @@ Entry type performance & YoY Changes:
 Age Distribution: 
 * Histogram: shows strong concentration of check ins within binned age groups
 
-![Customer Engagement(screenshots/gym_analysis2.png)]
+![Customer Engagement](screenshots/gym_analysis2.png)
 
 Total check ins: The same trend line was used from the previous visual 
 
@@ -54,7 +54,7 @@ This visual gives insight into:
 3. Do promotions sutain long term interest or short term spikes?
 4. What campaigns relate to long term growths?
 
-![Retention Rate(screenshots/gym_analysis3.png)]
+![Retention Rate](screenshots/gym_analysis3.png)
 
 Total check ins vs Returned Within 2 weeks: the bar graph shows the total check ins per day, while the line chart plots the number of people returning within *2 weeks* of their *first visit*
 Retention table: table calculates return rate ratios for each month with 3 rentention windows (2 weeks, 3 months, 6 months)
